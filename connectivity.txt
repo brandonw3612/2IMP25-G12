@@ -1,0 +1,19 @@
+Clusters
+Pages: ID = 0, NodeCount = 30
+BackEnd: ID = 1, NodeCount = 21
+Components: ID = 2, NodeCount = 137
+WebLib: ID = 3, NodeCount = 21
+Database: ID = 4, NodeCount = 2
+AppShared: ID = 5, NodeCount = 29
+TRPC: ID = 6, NodeCount = 4
+
+
+
+Connectivity
+0, 13, 71, 11, 0, 8, 2, 
+0, 37, 0, 2, 9, 23, 11, 
+0, 5, 660, 159, 0, 161, 3, 
+0, 0, 2, 21, 0, 14, 1, 
+0, 0, 0, 0, 0, 0, 0, 
+0, 0, 0, 0, 0, 0, 0, 
+0, 0, 0, 0, 0, 0, 0, 
