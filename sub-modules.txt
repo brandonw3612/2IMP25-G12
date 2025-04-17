@@ -1,0 +1,5 @@
+apps/web
+packages/db
+packages/shared
+packages/shared-react
+packages/trpc
